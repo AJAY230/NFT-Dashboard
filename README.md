@@ -1,6 +1,7 @@
 The NFT Dashboard Visualization Project is an innovative initiative designed to provide a comprehensive and user-friendly platform for tracking and analyzing Non-Fungible Tokens (NFTs) within the digital art and collectibles space. NFTs have gained significant popularity in recent years, and this project aims to empower collectors, creators, and enthusiasts with valuable insights and tools to navigate this dynamic market.
 
 Key Features:
+
 Real-Time NFT Tracking: The dashboard offers real-time updates on NFT sales, auctions, and pricing trends across various NFT marketplaces like OpenSea, Rarible, and more. Users can stay informed about the latest transactions and market movements.
 
 Portfolio Management: Users can create and manage their NFT portfolios, enabling them to track the performance of their digital assets over time. This feature provides a clear overview of asset allocation and profit/loss.
